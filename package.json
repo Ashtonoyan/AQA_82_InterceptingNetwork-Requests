@@ -1,13 +1,14 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "untitled7",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
-  "dependencies": {},
   "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.17",
     "typescript": "^5.5.3"
   },
   "private": true
